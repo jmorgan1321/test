@@ -5,7 +5,7 @@ import (
 
 	"github.com/jmorgan1321/SpaceRep/internal/support"
 	"github.com/jmorgan1321/golang-games/lib/engine/serialization"
-	"github.com/jmorgan1321/golang-games/lib/engine/test"
+	"github.com/jmorgan1321/golang-games/test"
 )
 
 func TestVector_DefaultState(t *testing.T) {
